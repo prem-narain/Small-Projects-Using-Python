@@ -1,2 +1,2 @@
-# Small-Projects-Using-Python
+# Small-Game-Projects-Using-Python
 This repository contains some funny stuff(small games) using python 
